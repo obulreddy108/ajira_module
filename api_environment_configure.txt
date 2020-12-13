@@ -1,0 +1,1 @@
+"{\"temperature\": 60, \"humidity\": 65, \"solar-flare\": false, \"storm\": false, \"area-map\": [[\"dirt\", \"dirt\", \"dirt\", \"water\", \"dirt\"], [\"dirt\", \"dirt\", \"water\", \"water\", \"water\"], [\"dirt\", \"dirt\", \"dirt\", \"water\", \"dirt\"], [\"dirt\", \"dirt\", \"dirt\", \"dirt\", \"dirt\"], [\"dirt\", \"dirt\", \"dirt\", \"dirt\", \"dirt\"]]}"
